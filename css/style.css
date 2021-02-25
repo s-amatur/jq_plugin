@@ -1,0 +1,38 @@
+/* woojs */
+
+.lime {
+    background-color: lime;
+    min-height: 250px;
+    margin-bottom: 50px;
+}
+
+.blue {
+    background-color: blue;
+    min-height: 250px;
+    margin-bottom: 50px;
+}
+
+.grey {
+    background-color: grey;
+    min-height: 250px;
+    margin-bottom: 0;
+}
+
+
+/* parallax */
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+
+/* owl-carousel */
+
+
+/* .owl {
+    border: 1px solid grey;
+    width: 500px;
+    height: 500px;
+    background-color: teal;
+} */
